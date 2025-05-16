@@ -1,0 +1,52 @@
+# .gitignore pour OmniShield
+
+# Fichiers spécifiques au projet
+models/adversarial-detector.onnx
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Environnements virtuels
+venv/
+ENV/
+env/
+env.bak/
+venv.bak/
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Éditeurs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+log/
+logs/
+
+# Fichiers de configuration locaux
+config.local.json
+.env
