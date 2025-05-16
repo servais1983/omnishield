@@ -1,3 +1,6 @@
+
+![image](https://github.com/user-attachments/assets/0816dea1-6f0d-4a42-9ab2-06a7ef922715)
+
 # OmniShield 2.0 – Défense IA en CLI
 
 ## 🔍 Fonctions principales
